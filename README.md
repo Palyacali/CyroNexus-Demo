@@ -1,7 +1,5 @@
 # 🛰️ CyroNexus | Futuristic Control Interface
 
-![CyroTech Logo](CyroNexus.UI/Assets/logo.png)
-
 **CyroNexus**, modern .NET 10.0 altyapısı ve fütüristik bir kullanıcı deneyimi (UX) ile tasarlanmış, merkezi bir kontrol panelidir. **CyroTech Software** ekosisteminin bir parçası olarak, verimliliği ve estetiği tek bir noktada birleştirir.
 
 ---
